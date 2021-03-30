@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### About me
+[Weibo](http://weibo.com/igcx) • [Twitter](https://twitter.com/igcx712) • [E-Mail](mailto:guo.chenxuya@gmail.com) 
+- 🔭 I’m currently working on undefined
+- 📖 I’m currently learning Javascript
+- 🎮 I'm currently playing *王者荣耀*
+- 📫 How to reach me: guo.chenxuya@gmail.com
 <!--
 **igcx/igcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- - [发邮件](mailto:guo.chenxuya@gmail.com)
+- • [Sponsor](https://wangchujiang.com/sponsor.html)
+
 -->
