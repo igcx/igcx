@@ -2,7 +2,7 @@
 
 ### About me
 [Weibo](http://weibo.com/igcx) • [Twitter](https://twitter.com/igcx712) • [E-Mail](mailto:guo.chenxuya@gmail.com) 
-- 🔭 I’m currently working on undefined
+- 🔭 I’m currently working on Front-end dev
 - 📖 I’m currently learning Javascript
 - 🎮 I'm currently playing *王者荣耀*
 - 📫 How to reach me: guo.chenxuya@gmail.com
