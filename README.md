@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About me
+### About me 🥱
 [Weibo](http://weibo.com/igcx) • [Twitter](https://twitter.com/igcx712) • [E-Mail](mailto:guo.chenxuya@gmail.com) 
 - 🔭 I’m currently working on Front-end dev
 - 📖 I’m currently learning Javascript
